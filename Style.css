@@ -101,3 +101,13 @@ footer{
     border-radius: 20px;
     height: 150px;
 }
+header{
+    background-color:cornflowerblue;
+    text-align: end;
+    padding: 2%;
+    background-image: linear-gradient(blue, cornflowerblue);
+
+}
+header h2{
+    color: white;
+}
